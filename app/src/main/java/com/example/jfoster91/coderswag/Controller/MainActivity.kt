@@ -1,7 +1,8 @@
-package com.example.jfoster91.coderswag
+package com.example.jfoster91.coderswag.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.jfoster91.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
